@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@700&family=Oswald&family=Permanent+Marker&family=Press+Start+2P&display=swap');
+
+.Sign{
+    /* padding: 250px;
+    padding-left: 600px;
+    padding-right: 600px; */
+    color: white;
+    font-family: 'Anton', sans-serif;
+    background-color: rgb(179, 234, 255);
+    border: double;
+    padding: 80px;
+    /* margin: 170px; */
+    margin-right: 600px;
+    margin-left: 600px;
+    background-image: url("C:\Users\vibha\.vscode\Project1\pic3.jpg");
+}
+.btn{
+    border: black;
+}
+.h{
+    text-align: center;
+}
+.signup{
+    background-image:url("C:\Users\vibha\.vscode\Project1\background.jpg");
+}

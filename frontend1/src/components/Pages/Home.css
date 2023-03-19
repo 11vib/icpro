@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@700&family=Oswald&family=Permanent+Marker&family=Press+Start+2P&display=swap');
+.home{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    background-color:rgb(204, 200, 232);
+    background-image: url(C:\Users\vibha\.vscode\Project1\pic4.jpg);
+    padding: 50px;
+}
+.h1{
+    font-size: xx-large;
+    font-family: 'Permanent Marker', cursive;
+}
+.p1{
+    border: double;
+    border-color: black;
+    padding: 20px;
+    color: white;
+    background-image: url(C:\Users\vibha\.vscode\Project1\pic3.jpg);
+    font-size:x-large;
+}
+.p2{
+    border: double;
+    border-color: black;
+    padding: 50px;
+    color: white;
+    background-image: url(C:\Users\vibha\.vscode\Project1\pic3.jpg);
+    font-size: larger;
+}
+.p3{
+    background-color: black;
+    color: aliceblue;
+    padding: 30px;
+}
